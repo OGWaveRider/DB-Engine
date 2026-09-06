@@ -1,14 +1,6 @@
 /**
 Startup the Database
 **/
-fn main () {
+fn main() {
 	
-}
-
-fn start() {
-
-}
-
-fn stop() {
-
 }
